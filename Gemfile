@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 
 ruby '2.6.3'
 
+gem 'bcrypt',         '3.1.12'
 gem 'rails-controller-testing'
 gem 'bootstrap-sass', '3.3.7'
 
